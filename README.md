@@ -1,5 +1,5 @@
 # Autonomous-Differential-Drive-Robot-using-ROS
-Through the developed Robot Operating SYstem (ROS) packages, the designed differential-drive robot is to be able to: <br/> 
+Through the developed packages using Robot Operating System (ROS), the designed differential-drive robot is to be able to: <br/> 
 1 - Map its environment using Hector SLAM and Gmapping. <br/> 
 2 - Localize itself within its environment using Extended Kalman Filter (EKF) while mapping and Adaptive Monte Carlo (AMCL) while navigating a map. <br/> 
 3 - Navigate through a teleoperation mode using keyboard and joystick commands. <br/> 
